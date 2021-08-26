@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(189, 144, 231);
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+section{
+
+    width: 900px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: cornsilk;
+}
+
+h1{
+    font-weight: 600;
+    font-family: sans-serif;
+}

@@ -1,0 +1,45 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(182, 149, 212);
+}
+
+.container{
+    width: 600px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: snow;
+}
+
+.container h1{
+    text-align: center;
+}
+
+.calculadora{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.display{
+    font-size: 2em;
+    width: 98%;
+    text-align: right;
+}
+
+.btn{
+    width: 100%;
+    height: 50px;
+    font-size: 1em;
+    border: none;
+    background: #dfdfdf;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background:#a8a8a8 ;
+}
+
+

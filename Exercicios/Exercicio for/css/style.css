@@ -1,0 +1,20 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkslategray;
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+
+.container{
+
+    margin: 100px auto;
+    padding: 25px;
+    width: 900px;
+    height: 600px;
+    background-color: rgb(133, 153, 209);
+    border-radius: 20px;
+}

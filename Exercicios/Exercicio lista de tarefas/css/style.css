@@ -1,0 +1,33 @@
+html{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    background-color: palevioletred;
+}
+
+.container{
+    width: 600px;
+    margin: 0px auto;
+    padding: 25px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+.container .tarefas {
+    list-style-type: none;
+    font-size: 1.5em;
+    margin-top: 50px;
+    
+}
+
+.container .tarefas li{
+    margin-top: 25px;
+}
+
+.Apagar{
+    margin-left: 5%;
+}
