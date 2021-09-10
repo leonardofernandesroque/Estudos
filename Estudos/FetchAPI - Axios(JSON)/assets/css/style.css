@@ -1,0 +1,28 @@
+html{
+    margin:0px;
+    padding: 0px;
+    background-color: lightpink;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container{
+    margin:20px auto;
+    width: 800px;
+    border-radius: 20px;
+    background-color: lightsteelblue;
+}
+
+.container h1, h2{
+    text-align: center;
+}
+
+
+table{
+    width: 100%;
+}

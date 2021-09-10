@@ -1,0 +1,21 @@
+html{
+    padding:0px;
+    margin: 0px;
+    background-color: aquamarine;
+}
+
+body{
+    padding:0px;
+    margin: 0px;
+}
+
+
+.container{
+    margin: 10px auto;
+    margin-top: 50px;
+    padding:10px;
+    background-color: floralwhite;
+    border-radius: 20px;
+    width: 700px;
+}
+
